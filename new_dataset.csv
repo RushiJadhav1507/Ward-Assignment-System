@@ -1,0 +1,642 @@
+Subject_Id,gender,Age,Previous_History,Tests,Wards
+10133,M,34,,X-Rays (leg),Medicine
+10040,F,34,,"Blood Culture Test,cardiac enzymes Test",ICU
+10209,M,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10328,M,21,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,Biopsy",ICU
+10112,F,42,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10360,F,39,,Pregnancy test,Obstetric & Gynaecology
+10366,M,57,,echocardiography,Cardiac
+10386,F,27,,"Pregnancy test, Blood Culture Test",Obstetric & Gynaecology
+10668,F,29,,"temperature,Urine tests, Pregnancy test",Obstetric & Gynaecology
+10699,F,22,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10155,M,55,,esophagogastroduodenoscopy,Medicine
+10076,M,59,,"Blood Culture Test,temperature",Medicine
+10255,M,45,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10303,M,33,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10474,F,62,lymphadenitis,Blood Cross-matching,Trauma
+10589,F,52,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10685,M,17,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,",ICU
+10223,F,39,,Pregnancy test,Obstetric & Gynaecology
+10136,M,43,,Blood cross-matching,Neuro
+10443,M,45,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10676,F,35,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture ",ICU
+10013,F,24,lymphadenitis,"Blood Culture Test,Blood cross-matching,Brain MRI",Trauma
+10587,F,49,aortic stenosis,"Blood Culture Test,Blood cross-matching,Biopsy",Cardiac
+10639,M,59,,"Blood Culture Test,temperature",Medicine
+10660,F,49,aortic stenosis,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10134,M,35,,Blood Culture Test,Medicine
+10357,M,48,,"Blood Culture Test,cardiac enzymes Test",ICU
+10475,M,56,,skin allergy test,Medicine
+10518,F,45,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10525,F,44,frequent flier,cardiac enzymes Test,Surgical
+10608,M,61,,"temperature,Blood Culture Test,Stool tests",Medicine
+10126,F,43,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10168,F,31,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10202,M,80,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10152,F,34,frequent flier,cardiac enzymes Test,Surgical
+10281,M,38,,coloscopy,Medicine
+10298,F,24,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture",ICU
+10384,F,65,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy",Trauma
+10027,F,45,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10185,F,55,lymphadenitis,"Cervical Spine MRI, Blood cross-matching",Trauma
+10149,F,51,,ballistocardiogram,Cardiac
+10210,F,71,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10259,F,31,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10539,M,31,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10619,M,55,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10666,M,34,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10069,F,65,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10088,M,42,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10061,F,52,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10361,F,45,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10517,F,39,,Pregnancy test,Obstetric & Gynaecology
+10673,M,47,,"Blood Culture Test,cardiac enzymes Test",ICU
+10163,M,48,,Complete Blood Count,Medicine
+10033,F,65,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy",Trauma
+10232,F,56,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10297,F,62,lymphadenitis,Blood Cross-matching,Trauma
+10324,F,23,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10407,F,71,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10429,M,58,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture",ICU
+10523,M,57,,echocardiography,Cardiac
+10593,M,48,,Complete Blood Count,Medicine
+10606,M,68,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10204,F,56,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10198,F,44,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10065,F,35,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10382,M,31,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10504,M,47,,"temperature,Blood Culture Test,Stool tests",Medicine
+10190,F,34,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,liver biopsy",ICU
+10336,M,60,,Blood Sugar test,Medicine
+10434,F,55,,Cervical Spine MRI,Neuro
+10509,M,34,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10684,M,65,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10165,M,39,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10162,F,44,frequent flier,cardiac enzymes Test,Surgical
+10486,M,61,frequent flier,"cardiac enzymes Test, coloscopy",Surgical
+10487,M,39,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10535,F,71,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10646,F,12,,"X-Rays(Chest), Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10238,F,55,lymphadenitis,"Cervical Spine MRI, Blood cross-matching",Trauma
+10270,M,21,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10332,F,12,,"X-Rays(Chest), Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10337,F,54,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10445,F,39,,"Blood Culture Test,cardiac enzymes Test",ICU
+10498,M,39,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10566,F,45,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10663,F,42,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10671,M,48,,"Blood Culture Test,cardiac enzymes Test",ICU
+10161,F,46,,urine culture,Medicine
+10019,M,34,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10329,M,61,frequent flier,"cardiac enzymes Test, coloscopy",Surgical
+10633,M,32,,urinalysis,Medicine
+10153,M,38,,coloscopy,Medicine
+10130,M,65,,"Cardiac Catheterization and Angiogram,Chest X-Rays(Chest),Echocardiogram",Cardiac
+10265,M,80,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10338,M,34,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10480,M,67,,esophageal motility study,Medicine
+10527,M,65,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10616,M,45,,Angiography,Cardiac
+10679,F,64,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10208,F,71,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10427,M,21,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10510,F,52,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10217,F,33,,"Pregnancy test, cardiac enzymes Test",Obstetric & Gynaecology
+10313,F,71,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10330,M,39,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10371,M,17,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,",ICU
+10441,F,65,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10489,F,12,,"X-Rays(Chest), Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10528,M,17,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,",ICU
+10599,M,71,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10237,M,35,,Blood Culture Test,Medicine
+10299,F,45,aortic valve disfunction,"Blood Culture Test,Blood cross-matching,Biopsy",Cardiac
+10411,M,71,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10412,M,45,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10424,F,28,,"temperature,Urine tests,Pregnancy test",Obstetric & Gynaecology
+10458,M,43,aortic stenosis,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10463,M,42,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10579,M,80,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10586,M,58,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture",ICU
+10649,M,61,,electrocardiogram,Cardiac
+10150,M,56,,skin allergy test,Medicine
+10159,F,63,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10375,M,43,,Blood cross-matching,Neuro
+10376,M,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10379,M,36,,cardiac enzymes Test,Cardiac
+10511,F,29,,"temperature,Urine tests, Pregnancy test",Obstetric & Gynaecology
+10624,M,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10682,F,44,frequent flier,cardiac enzymes Test,Surgical
+10164,F,55,,Cervical Spine MRI,Neuro
+10221,F,25,,"Pregnancy test, Blood Culture Test",Obstetric & Gynaecology
+10189,M,21,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,Biopsy",ICU
+10285,M,71,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10365,F,64,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10400,F,42,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10491,F,24,,"Pregnancy test, urinalysis",Obstetric & Gynaecology
+10493,M,60,,Blood Sugar test,Medicine
+10521,F,33,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10552,F,55,lymphadenitis,"Cervical Spine MRI, Blood cross-matching",Trauma
+10243,F,42,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10359,M,47,,"Blood Culture Test,cardiac enzymes Test",ICU
+10501,M,51,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10502,F,34,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10544,F,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10625,M,55,,esophagogastroduodenoscopy,Medicine
+10408,F,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10543,F,27,,"Pregnancy test, Blood Culture Test",Obstetric & Gynaecology
+10067,M,65,,"Blood Culture Test,cardiac enzymes Test",ICU
+10461,M,43,,Blood cross-matching,Neuro
+10691,M,56,aortic stenosis,Echocardiogram,Cardiac
+10158,M,61,frequent flier,cardiac enzymes Test,Surgical
+10181,F,34,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10247,F,24,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10394,M,35,,Blood Culture Test,Medicine
+10506,F,42,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10542,F,22,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10560,F,27,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10636,F,35,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10688,M,59,,"Blood Culture Test,cardiac enzymes Test",ICU
+10159,M,44,,CT Scan,ICU
+10111,F,39,,"Blood Culture Test,cardiac enzymes Test",ICU
+10241,M,23,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10244,F,68,,"temperature,Blood Culture Test,Stool tests",Medicine
+10492,M,61,,electrocardiogram,Cardiac
+10613,F,45,aortic valve disfunction,"Blood Culture Test,Blood cross-matching,Biopsy",Cardiac
+10284,F,65,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10373,F,64,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10490,F,33,,"Pregnancy test, cardiac enzymes Test",Obstetric & Gynaecology
+10553,M,68,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10694,F,45,frequent flier,"cardiac enzymes Test, urine culture",Surgical
+10205,M,52,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10119,M,47,,"Blood Culture Test,cardiac enzymes Test",ICU
+10358,F,61,,"temperature,Blood Culture Test,Stool tests",Medicine
+10404,F,24,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10423,F,31,,Pregnancy test,Obstetric & Gynaecology
+10503,F,49,aortic stenosis,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10603,M,61,frequent flier,cardiac enzymes Test,Surgical
+10610,F,28,,"Pregnancy test, urine culture",Obstetric & Gynaecology
+10611,F,62,lymphadenitis,Blood Cross-matching,Trauma
+10661,M,47,,"temperature,Blood Culture Test,Stool tests",Medicine
+10231,F,43,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10249,F,37,,capsule endoscopy,Medicine
+10261,F,34,frequent flier,"cardiac enzymes Test, Blood Sugar test",Surgical
+10272,M,58,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture",ICU
+10304,M,43,,Blood cross-matching,Neuro
+10311,M,55,,esophagogastroduodenoscopy,Medicine
+10335,M,61,,electrocardiogram,Cardiac
+10340,M,65,,"Blood Culture Test,cardiac enzymes Test",ICU
+10446,M,61,frequent flier,cardiac enzymes Test,Surgical
+10548,M,48,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10592,M,34,,X-Rays (leg),Medicine
+10233,F,34,,"Pregnancy test,Blood Culture Test",Obstetric & Gynaecology
+10309,M,52,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10448,F,40,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10478,M,53,,"temperature,Blood Culture Test,Stool tests",Medicine
+10612,F,24,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture",ICU
+10662,F,65,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy",Trauma
+10222,F,28,,"Pregnancy test, urine culture",Obstetric & Gynaecology
+10240,M,44,,CT Scan,ICU
+10276,F,39,,"Blood Culture Test,cardiac enzymes Test",ICU
+10288,F,39,,"Blood Culture Test,cardiac enzymes Test",ICU
+10291,F,40,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10450,F,25,,"Pregnancy test, Blood Culture Test",Obstetric & Gynaecology
+10531,M,59,,"Blood Culture Test,cardiac enzymes Test",ICU
+10035,M,23,,"temperature,Blood Culture Test,Stool tests",Medicine
+10114,F,71,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10436,M,48,,Complete Blood Count,Medicine
+10444,F,38,,"temperature,Urine tests, Pregnancy test",Obstetric & Gynaecology
+10555,M,23,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10655,M,39,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10672,F,61,,"temperature,Blood Culture Test,Stool tests",Medicine
+10215,F,24,,"Pregnancy test, urinalysis",Obstetric & Gynaecology
+10322,F,35,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10364,F,33,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10389,F,56,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10417,F,45,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10479,F,35,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10665,F,49,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10595,M,38,,coloscopy,Medicine
+10151,F,36,,skin biopsy,Medicine
+10174,F,52,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10372,F,34,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,liver biopsy",ICU
+10454,F,62,lymphadenitis,Blood Cross-matching,Trauma
+10556,F,42,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10582,M,58,frequent flier,cardiac enzymes Test,Surgical
+10640,M,65,,"Cardiac Catheterization and Angiogram,Chest X-Rays(Chest),Echocardiogram",Cardiac
+10642,M,21,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,Biopsy",ICU
+10246,F,27,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10305,M,55,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10306,M,42,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10538,F,22,,Pregnancy test,Obstetric & Gynaecology
+10211,F,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10213,F,55,,Cervical Spine MRI,Neuro
+10545,F,43,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10565,F,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10117,F,68,,"temperature,Blood Culture Test,Stool tests",Medicine
+10135,M,36,,cardiac enzymes Test,Cardiac
+10442,M,71,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10483,M,65,,"Cardiac Catheterization and Angiogram,Chest X-Rays(Chest),Echocardiogram",Cardiac
+10578,F,54,,"Cardiac Catheterization and Angiogram, X-rays,Echocardiogram",Cardiac
+10629,F,30,,Pregnancy test,Obstetric & Gynaecology
+10218,F,38,,"temperature,Urine tests, Pregnancy test",Obstetric & Gynaecology
+10378,F,71,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10698,F,65,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy",Trauma
+10227,F,40,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10258,M,44,frequent flier,cardiac enzymes Test,Surgical
+10294,M,61,,"temperature,Blood Culture Test,Stool tests",Medicine
+10453,F,28,,"Pregnancy test, urine culture",Obstetric & Gynaecology
+10508,F,49,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10533,M,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10622,M,62,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10145,F,30,,Pregnancy test,Obstetric & Gynaecology
+10278,M,34,,X-Rays (leg),Medicine
+10279,M,48,,Complete Blood Count,Medicine
+10323,M,67,,esophageal motility study,Medicine
+10342,F,34,frequent flier,cardiac enzymes Test,Surgical
+10352,M,34,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10507,F,46,,urine culture,Medicine
+10597,M,52,frequent flier,cardiac enzymes Test,Surgical
+10648,F,24,,"Pregnancy test, urinalysis",Obstetric & Gynaecology
+10651,F,54,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10317,F,62,lymphadenitis,Blood Cross-matching,Trauma
+10396,M,68,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10471,M,52,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10577,F,44,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10026,F,64,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10354,F,29,,"temperature,Urine tests, Pregnancy test",Obstetric & Gynaecology
+10677,F,55,,Cervical Spine MRI,Neuro
+10228,F,31,,Pregnancy test,Obstetric & Gynaecology
+10036,F,43,,"temperature,Urine tests,Blood Culture Test",Medicine
+10234,M,48,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10558,F,68,,"temperature,Blood Culture Test,Stool tests",Medicine
+10571,M,23,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10637,M,67,,esophageal motility study,Medicine
+10657,M,43,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10248,F,30,,"Blood Culture Test,temperature",Medicine
+10380,F,45,frequent flier,"cardiac enzymes Test, urine culture",Surgical
+10387,F,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10426,M,52,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,liver biopsy",ICU
+10451,M,61,,"temperature,Blood Culture Test,Stool tests",Medicine
+10473,F,51,,ballistocardiogram,Cardiac
+10526,F,63,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10635,M,53,,"temperature,Blood Culture Test,Stool tests",Medicine
+10042,M,45,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10044,F,45,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10392,M,27,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10409,F,45,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10476,M,32,,urinalysis,Medicine
+10226,F,34,,"Pregnancy test,Blood Culture Test",Obstetric & Gynaecology
+10229,F,28,,"temperature,Urine tests,Pregnancy test",Obstetric & Gynaecology
+10253,F,30,,"Pregnancy test, Blood cross-matching",Obstetric & Gynaecology
+10320,F,56,,liver biopsy,Medicine
+10369,F,63,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10390,F,34,,"Pregnancy test,Blood Culture Test",Obstetric & Gynaecology
+10466,M,52,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10563,F,37,,capsule endoscopy,Medicine
+10627,F,71,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10120,M,48,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10182,M,52,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10260,F,45,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10438,M,38,,coloscopy,Medicine
+10455,F,24,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture",ICU
+10497,M,65,,"Blood Culture Test,cardiac enzymes Test",ICU
+10557,F,42,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10630,F,51,,ballistocardiogram,Cardiac
+10697,F,55,frequent flier,cardiac enzymes Test,Surgical
+10102,M,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10225,F,29,,"temperature,Urine tests, Pregnancy test",Obstetric & Gynaecology
+10251,F,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10395,F,55,lymphadenitis,"Cervical Spine MRI, Blood cross-matching",Trauma
+10512,F,43,,"temperature,Urine tests,Blood Culture Test",Medicine
+10177,F,55,lymphadenitis,"Cervical Spine MRI, Blood cross-matching",Trauma
+10152,F,37,,capsule endoscopy,Medicine
+10059,M,53,,"temperature,Blood Culture Test,Stool tests",Medicine
+10268,M,58,frequent flier,cardiac enzymes Test,Surgical
+10374,M,59,,"Blood Culture Test,cardiac enzymes Test",ICU
+10514,M,48,,"Blood Culture Test,cardiac enzymes Test",ICU
+10537,F,45,frequent flier,"cardiac enzymes Test, urine culture",Surgical
+10573,F,31,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10659,F,34,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10296,F,28,,"Pregnancy test, urine culture",Obstetric & Gynaecology
+10397,M,44,,CT Scan,ICU
+10460,M,33,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10467,M,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10670,F,56,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10686,F,34,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,liver biopsy",ICU
+10341,M,39,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10350,F,46,,urine culture,Medicine
+10391,M,48,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10393,M,23,,"temperature,Blood Culture Test,Stool tests",Medicine
+10402,F,33,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10540,F,55,frequent flier,cardiac enzymes Test,Surgical
+10549,M,27,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10583,M,52,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,liver biopsy",ICU
+10590,F,39,,"Blood Culture Test,cardiac enzymes Test",ICU
+10188,M,17,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,",ICU
+10043,M,56,aortic stenosis,Echocardiogram,Cardiac
+10266,F,31,,Pregnancy test,Obstetric & Gynaecology
+10401,F,68,,"temperature,Blood Culture Test,Stool tests",Medicine
+10575,F,34,frequent flier,"cardiac enzymes Test, Blood Sugar test",Surgical
+10600,M,45,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10654,M,65,,"Blood Culture Test,cardiac enzymes Test",ICU
+10664,F,46,,urine culture,Medicine
+10644,M,39,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10312,F,48,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10440,M,52,frequent flier,cardiac enzymes Test,Surgical
+10594,F,45,,"Blood Culture Test,temperature",Medicine
+10083,F,39,,"Blood Culture Test,cardiac enzymes Test",ICU
+10158,F,56,,liver biopsy,Medicine
+10187,F,12,,"X-Rays(Chest), Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10414,M,23,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10431,F,36,,skin biopsy,Medicine
+10554,M,44,,CT Scan,ICU
+10598,F,65,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10658,M,51,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10269,M,52,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,liver biopsy",ICU
+10274,F,36,,skin biopsy,Medicine
+10275,F,52,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10420,F,44,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10530,F,64,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10605,F,40,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10167,F,45,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10155,F,45,frequent flier,"cardiac enzymes Test, urine culture",Surgical
+10385,F,22,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10541,F,65,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy",Trauma
+10609,M,57,frequent flier,cardiac enzymes Test,Surgical
+10653,M,61,lymphadenitis,Blood cross-matching,Trauma
+10683,F,63,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10017,F,62,lymphadenitis,Blood Cross-matching,Trauma
+10094,M,48,,"Blood Culture Test,cardiac enzymes Test",ICU
+10292,M,68,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10348,F,65,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy",Trauma
+10421,F,54,,"Cardiac Catheterization and Angiogram, X-rays,Echocardiogram",Cardiac
+10465,M,62,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10180,F,27,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10398,M,23,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10439,F,31,,esophageal pH monitoring,Medicine
+10559,F,33,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10588,F,36,,skin biopsy,Medicine
+10601,F,38,,"temperature,Urine tests, Pregnancy test",Obstetric & Gynaecology
+10171,F,42,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10093,M,47,,"temperature,Blood Culture Test,Stool tests",Medicine
+10200,F,49,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10104,F,61,,"temperature,Blood Culture Test,Stool tests",Medicine
+10236,M,23,,"temperature,Blood Culture Test,Stool tests",Medicine
+10267,F,28,,"temperature,Urine tests,Pregnancy test",Obstetric & Gynaecology
+10318,M,56,,skin allergy test,Medicine
+10425,M,58,frequent flier,cardiac enzymes Test,Surgical
+10428,F,33,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10520,F,55,,Cervical Spine MRI,Neuro
+10536,M,36,,cardiac enzymes Test,Cardiac
+10561,F,24,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10626,F,48,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10038,F,64,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10264,F,54,,"Cardiac Catheterization and Angiogram, X-rays,Echocardiogram",Cardiac
+10314,M,52,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10345,F,34,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10347,M,47,,"temperature,Blood Culture Test,Stool tests",Medicine
+10615,M,43,aortic stenosis,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10138,M,39,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10151,M,71,frequent flier,cardiac enzymes Test,Surgical
+10321,M,53,,"temperature,Blood Culture Test,Stool tests",Medicine
+10154,F,39,,endoscopic retrograde cholangiopancreatography,Medicine
+10230,F,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10405,F,30,,"Blood Culture Test,temperature",Medicine
+10435,M,34,,X-Rays (leg),Medicine
+10056,F,54,,"Cardiac Catheterization and Angiogram, X-rays,Echocardiogram",Cardiac
+10203,M,45,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10173,M,34,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10191,F,35,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture ",ICU
+10216,F,27,,"Pregnancy test, Blood Culture Test",Obstetric & Gynaecology
+10344,M,51,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10406,F,37,,capsule endoscopy,Medicine
+10534,M,56,aortic stenosis,Echocardiogram,Cardiac
+10628,M,52,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10638,F,23,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10334,F,24,,"Pregnancy test, urinalysis",Obstetric & Gynaecology
+10343,M,43,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10576,F,55,lymphadenitis,"Cervical Spine MRI, Blood cross-matching",Trauma
+10194,M,58,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture",ICU
+10183,M,33,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10150,M,61,frequent flier,"cardiac enzymes Test, coloscopy",Surgical
+10256,F,24,lymphadenitis,"Blood Culture Test,Blood cross-matching,Brain MRI",Trauma
+10287,F,38,,"temperature,Urine tests, Pregnancy test",Obstetric & Gynaecology
+10307,F,24,lymphadenitis,"Blood Culture Test,Blood cross-matching,Brain MRI",Trauma
+10308,M,62,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10353,F,52,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10381,F,22,,Pregnancy test,Obstetric & Gynaecology
+10693,M,36,,cardiac enzymes Test,Cardiac
+10006,F,45,aortic valve disfunction,"Blood Culture Test,Blood cross-matching,Biopsy",Cardiac
+10147,M,57,,echocardiography,Cardiac
+10263,F,44,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10289,M,61,frequent flier,cardiac enzymes Test,Surgical
+10290,M,45,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10333,F,33,,"Pregnancy test, cardiac enzymes Test",Obstetric & Gynaecology
+10515,F,61,,"temperature,Blood Culture Test,Stool tests",Medicine
+10388,F,43,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10484,F,39,,endoscopic retrograde cholangiopancreatography,Medicine
+10641,F,39,,endoscopic retrograde cholangiopancreatography,Medicine
+10656,F,34,frequent flier,cardiac enzymes Test,Surgical
+10690,M,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10146,M,45,,Angiography,Cardiac
+10301,M,43,aortic stenosis,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10488,M,21,lymphadenitis,Blood cross-matching,Trauma
+10647,F,33,,"Pregnancy test, cardiac enzymes Test",Obstetric & Gynaecology
+10156,M,67,,esophageal motility study,Medicine
+10162,M,60,,Blood Sugar test,Medicine
+10090,M,68,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10148,M,61,,electrocardiogram,Cardiac
+10045,F,56,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10319,M,32,,urinalysis,Medicine
+10124,F,49,aortic stenosis,"Blood Culture Test,Blood cross-matching,Biopsy",Cardiac
+10157,F,31,,esophageal pH monitoring,Medicine
+10078,F,24,lymphadenitis,"Blood Culture Test,Blood cross-matching,Brain MRI",Trauma
+10184,M,61,lymphadenitis,Blood cross-matching,Trauma
+10163,M,51,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10346,F,49,aortic stenosis,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10370,M,65,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10462,M,55,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10516,M,47,,"Blood Culture Test,cardiac enzymes Test",ICU
+10652,M,34,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10674,F,39,,Pregnancy test,Obstetric & Gynaecology
+10687,F,64,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10064,M,23,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10132,F,45,,"Blood Culture Test,temperature",Medicine
+10277,F,55,,Cervical Spine MRI,Neuro
+10282,F,31,,esophageal pH monitoring,Medicine
+10418,F,34,frequent flier,"cardiac enzymes Test, Blood Sugar test",Surgical
+10485,M,21,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,Biopsy",ICU
+10505,F,65,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy",Trauma
+10621,F,24,lymphadenitis,"Blood Culture Test,Blood cross-matching,Brain MRI",Trauma
+10631,F,62,lymphadenitis,Blood Cross-matching,Trauma
+10161,F,54,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10032,M,43,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10178,M,31,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10286,M,45,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10472,F,30,,Pregnancy test,Obstetric & Gynaecology
+10519,F,35,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture ",ICU
+10532,M,43,,Blood cross-matching,Neuro
+10614,F,34,,"Blood Culture Test,cardiac enzymes Test",ICU
+10410,F,30,,"Pregnancy test, Blood cross-matching",Obstetric & Gynaecology
+10572,M,44,frequent flier,cardiac enzymes Test,Surgical
+10580,F,31,,Pregnancy test,Obstetric & Gynaecology
+10242,F,42,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10367,M,71,frequent flier,cardiac enzymes Test,Surgical
+10470,F,71,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10522,F,64,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10529,F,34,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,liver biopsy",ICU
+10570,F,24,lymphadenitis,"Blood Culture Test,Blood cross-matching,Brain MRI",Trauma
+10175,F,33,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10011,F,30,,"Blood Culture Test,temperature",Medicine
+10074,M,61,,"temperature,Blood Culture Test,Stool tests",Medicine
+10235,M,27,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10356,F,56,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10383,F,55,frequent flier,cardiac enzymes Test,Surgical
+10482,M,59,,"Blood Culture Test,temperature",Medicine
+10585,F,33,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10675,F,45,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10170,M,23,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10214,F,30,,"Pregnancy test, Blood cross-matching",Obstetric & Gynaecology
+10154,M,44,frequent flier,cardiac enzymes Test,Surgical
+10295,M,57,frequent flier,cardiac enzymes Test,Surgical
+10469,F,48,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10581,F,28,,"temperature,Urine tests,Pregnancy test",Obstetric & Gynaecology
+10695,F,22,,Pregnancy test,Obstetric & Gynaecology
+10195,M,21,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10176,M,21,lymphadenitis,Blood cross-matching,Trauma
+10331,M,21,lymphadenitis,Blood cross-matching,Trauma
+10339,M,61,lymphadenitis,Blood cross-matching,Trauma
+10399,F,42,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10452,M,57,frequent flier,cardiac enzymes Test,Surgical
+10186,M,45,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10283,M,52,frequent flier,cardiac enzymes Test,Surgical
+10363,F,55,,Cervical Spine MRI,Neuro
+10459,M,45,,Angiography,Cardiac
+10468,M,55,,esophagogastroduodenoscopy,Medicine
+10645,M,21,lymphadenitis,Blood cross-matching,Trauma
+10127,F,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10197,M,68,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10156,M,57,frequent flier,cardiac enzymes Test,Surgical
+10316,F,51,,ballistocardiogram,Cardiac
+10415,M,44,frequent flier,cardiac enzymes Test,Surgical
+10430,F,49,aortic stenosis,"Blood Culture Test,Blood cross-matching,Biopsy",Cardiac
+10546,F,56,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10596,F,31,,esophageal pH monitoring,Medicine
+10678,F,33,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10201,M,27,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10098,F,49,aortic stenosis,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10584,M,21,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10172,M,71,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10212,M,43,,Blood cross-matching,Neuro
+10207,M,65,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10106,M,59,,"Blood Culture Test,cardiac enzymes Test",ICU
+10179,F,22,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10079,F,62,lymphadenitis,Blood Cross-matching,Trauma
+10101,M,43,aortic stenosis,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10239,M,68,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10368,F,44,frequent flier,cardiac enzymes Test,Surgical
+10413,F,24,lymphadenitis,"Blood Culture Test,Blood cross-matching,Brain MRI",Trauma
+10456,F,45,aortic valve disfunction,"Blood Culture Test,Blood cross-matching,Biopsy",Cardiac
+10547,F,34,,"Pregnancy test,Blood Culture Test",Obstetric & Gynaecology
+10643,M,61,frequent flier,"cardiac enzymes Test, coloscopy",Surgical
+10650,M,60,,Blood Sugar test,Medicine
+10667,F,52,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10224,F,33,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10046,F,42,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10245,F,33,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10315,F,30,,Pregnancy test,Obstetric & Gynaecology
+10325,M,59,,"Blood Culture Test,temperature",Medicine
+10457,F,34,,"Blood Culture Test,cardiac enzymes Test",ICU
+10567,F,30,,"Pregnancy test, Blood cross-matching",Obstetric & Gynaecology
+10574,F,45,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10689,M,43,,Blood cross-matching,Neuro
+10696,M,31,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10199,F,24,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture",ICU
+10166,F,65,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy",Trauma
+10280,F,45,,"Blood Culture Test,temperature",Medicine
+10433,F,39,,"Blood Culture Test,cardiac enzymes Test",ICU
+10477,F,56,,liver biopsy,Medicine
+10495,M,34,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10499,F,34,frequent flier,cardiac enzymes Test,Surgical
+10602,F,39,,"Blood Culture Test,cardiac enzymes Test",ICU
+10604,M,45,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10257,M,23,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10089,M,71,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10351,F,49,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10355,F,43,,"temperature,Urine tests,Blood Culture Test",Medicine
+10362,F,35,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,urine culture ",ICU
+10432,F,52,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10481,F,23,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10569,M,45,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10403,F,27,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10568,M,71,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10669,F,43,,"temperature,Urine tests,Blood Culture Test",Medicine
+10192,M,62,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10160,F,55,frequent flier,cardiac enzymes Test,Surgical
+10349,F,42,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10419,F,55,lymphadenitis,"Cervical Spine MRI, Blood cross-matching",Trauma
+10447,M,45,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10220,F,24,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10193,M,52,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching,liver biopsy",ICU
+10327,F,39,,endoscopic retrograde cholangiopancreatography,Medicine
+10422,M,80,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching, frequent flier",ICU
+10620,M,42,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10632,M,56,,skin allergy test,Medicine
+10164,M,52,frequent flier,cardiac enzymes Test,Surgical
+10254,M,71,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10562,F,30,,"Blood Culture Test,temperature",Medicine
+10681,M,71,frequent flier,cardiac enzymes Test,Surgical
+10157,M,58,frequent flier,cardiac enzymes Test,Surgical
+10219,F,22,,Pregnancy test,Obstetric & Gynaecology
+10496,M,61,lymphadenitis,Blood cross-matching,Trauma
+10500,M,43,,"Cardiac Catheterization and Angiogram, X-Rays(Chest),Echocardiogram",Cardiac
+10551,M,35,,Blood Culture Test,Medicine
+10252,F,45,lymphadenitis,"Blood cross-matching,Biopsy,Brain MRI",Trauma
+10271,F,33,,"Pregnancy test, Blood Sugar test",Obstetric & Gynaecology
+10273,F,49,aortic stenosis,"Blood Culture Test,Blood cross-matching,Biopsy",Cardiac
+10416,F,31,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10550,M,23,,"temperature,Blood Culture Test,Stool tests",Medicine
+10564,F,71,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10591,F,55,,Cervical Spine MRI,Neuro
+10617,M,33,lymphadenitis,"X-Rays(Chest),Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10618,M,43,,Blood cross-matching,Neuro
+10169,F,48,lymphadenitis,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Trauma
+10206,F,23,,"Blood cross-matching,Biopsy,Brain MRI",Neuro
+10302,M,45,,Angiography,Cardiac
+10326,M,65,,"Cardiac Catheterization and Angiogram,Chest X-Rays(Chest),Echocardiogram",Cardiac
+10437,F,45,,"Blood Culture Test,temperature",Medicine
+10623,M,52,,"Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10680,M,57,,echocardiography,Cardiac
+10692,F,71,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10160,M,32,,urinalysis,Medicine
+10196,F,33,,"Blood Culture Test, cardiac enzymes Test, Blood cross-matching",ICU
+10300,F,34,,"Blood Culture Test,cardiac enzymes Test",ICU
+10634,F,56,,liver biopsy,Medicine
+10153,F,34,frequent flier,"cardiac enzymes Test, Blood Sugar test",Surgical
+10029,M,55,,"temperature,Urine tests,Blood Culture Test,Stool tests",Medicine
+10250,F,71,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10262,F,55,lymphadenitis,"Cervical Spine MRI, Blood cross-matching",Trauma
+10377,M,56,aortic stenosis,Echocardiogram,Cardiac
+10464,F,24,lymphadenitis,"Blood Culture Test,Blood cross-matching,Brain MRI",Trauma
+10513,F,56,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10524,M,71,frequent flier,cardiac enzymes Test,Surgical
+10607,F,25,,"Pregnancy test, Blood Culture Test",Obstetric & Gynaecology
+10700,F,27,,"Pregnancy test, Blood Culture Test",Obstetric & Gynaecology
+10293,F,25,,"Pregnancy test, Blood Culture Test",Obstetric & Gynaecology
+10310,M,34,,"X-rays,Blood Culture Test,Blood cross-matching,Biopsy,Brain MRI",Neuro
+10449,M,68,,"X-Rays(Chest),Electrocardiogram (ECG or EKG)",Cardiac
+10494,F,54,frequent flier,"cardiac enzymes Test, X-Rays(Chest)",Surgical
+10496,F,35,,antigen test,COVID
+10497,F,36,,antigen test,COVID
+10498,M,37,,RTPCR,COVID
+10499,F,55,,PCR-NAATs,COVID
+10500,F,77,,antigen test,COVID
+10501,M,40,,antigen test,COVID
+10502,M,41,,PCR-NAATs,COVID
+10503,M,42,,PCR-NAATs,COVID
+10504,F,43,,PCR-NAATs,COVID
+10505,F,25,,antigen test,COVID
+10506,M,39,,antigen test,COVID
+10507,M,46,,PCR-NAATs,COVID
+10508,F,47,,PCR-NAATs,COVID
